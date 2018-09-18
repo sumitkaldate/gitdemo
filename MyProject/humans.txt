@@ -4,7 +4,7 @@
 */
 
 /* TEAM */
-Your title: Your name.
+Your title: Sumit Kaldate
 Site: email, link to a contact form, etc. (Prepare yourself to get spammed if you add an email address)
 Twitter: your Twitter username.
 Location: City, Country.
