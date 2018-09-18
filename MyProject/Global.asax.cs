@@ -12,7 +12,7 @@
     {
         protected void Application_Start()
         {
-            // Ensure that the X-AspNetMvc-Version HTTP header is not 
+            // Ensure that the X-AspNetMvc-Version HTTP header is not This is modified
             //MvcHandler.DisableMvcResponseHeader = true;
 
             ConfigureViewEngines();
