@@ -10,7 +10,7 @@ Twitter: your Twitter username.
 Location: City, Country.
 
 /* THANKS */
-Name: name or url
+Name: Sumit
 
 /* SITE */
 Last update: YYYY/MM/DD (Updating this could get annoying)
