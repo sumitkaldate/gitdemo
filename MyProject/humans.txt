@@ -11,9 +11,3 @@ Location: City, Country.
 
 /* THANKS */
 Name: Sandeep Kabnure
-
-/* SITE */
-Last update: YYYY/MM/DD (Updating this could get annoying)
-Standards: HTML5, CSS3,.. (This is not a good idea from a security standpoint)
-Components: Modernizr, jQuery, etc. (This is not a good idea from a security standpoint)
-Software: Software used for the development (This is not a good idea from a security standpoint)
